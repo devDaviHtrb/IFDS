@@ -1,0 +1,12 @@
+algoritmo media
+Var float n1, n2, m.
+
+inicio
+    exiba("Escreva a nota do primeiro semestre")
+    leia(n1)
+    exiba("Escreva a nota do segundo semestre")
+    leia(n2)
+    m = (n1+n2)/2
+    exiba("A média é")
+    exiba(m)
+fim
